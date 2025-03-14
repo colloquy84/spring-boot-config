@@ -1,0 +1,1 @@
+## This project store all common configs for spring boot application
