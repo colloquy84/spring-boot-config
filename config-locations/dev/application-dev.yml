@@ -13,3 +13,4 @@ eureka:
 
 env:
     name: dev
+    app: deafult
