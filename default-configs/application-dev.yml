@@ -13,4 +13,5 @@ eureka:
 
 env:
     name: dev
-    app: deafult
+    app: deafult-dev-external
+    

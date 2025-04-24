@@ -13,4 +13,4 @@ eureka:
       
 env:
     name: prod     
-    app: deafult    
+    app: deafult-prod-internal    
