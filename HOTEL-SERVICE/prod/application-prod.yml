@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: Config-Dev
+    name: Config-Prod
 eureka:
   instance:
     prefer-ip-address: true
@@ -10,7 +10,7 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
-
+      
 env:
-    name: dev
-    app: custom
+    name: prod     
+    app: HOTEL-SERVICE-PROD   
